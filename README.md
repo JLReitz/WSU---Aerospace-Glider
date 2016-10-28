@@ -1,2 +1,9 @@
-# WSU-Aerospace-GPS
-A program written in the Arduino IDE to implement a GPS module as a part of a basic autopilot in order to guide a glider from it's initial launch point to a landing pad
+#WSU Aerospace GPS
+
+A program implemented to autonomously guide a glider from its release from the WSU Aerospace Club's rocket in-air back to the launch site.
+ 
+Designed and written by Jensen Reitz
+ 
+ - Utilizing Tinyduino and various TinySheilds, including the TinySheildGPS, by TinyCircuits.com
+ - Special thanks to Ben Rose of TinyCurcuits for his help in converting the GNRMC strings output by the TinySheild GPS into GPRMC strings    that are usable by various tracking programs
+ - Thanks also to Dave Reitz for helping with the PID laws
