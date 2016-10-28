@@ -1,4 +1,4 @@
-#WSU Aerospace GPS
+#WSU Aerospace Glider
 
 A program implemented to autonomously guide a glider from its release from the WSU Aerospace Club's rocket in-air back to the launch site.
  
